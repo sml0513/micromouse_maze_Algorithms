@@ -2,6 +2,9 @@
 micromouse_maze_tool/
 __pycache__/
 .ipynb_checkpoints/
+*.pyc
+.env
+.venv/
 virtual_sensor_demo*.csv
 report_*.png
 *.tmp
