@@ -1,0 +1,7 @@
+.vscode/
+micromouse_maze_tool/
+__pycache__/
+.ipynb_checkpoints/
+virtual_sensor_demo*.csv
+report_*.png
+*.tmp
